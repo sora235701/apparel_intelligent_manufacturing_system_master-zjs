@@ -1,0 +1,12 @@
+{
+  "name": "jeecg-boot-master",
+  "version": "1.0.0",
+  "description": "![JEECG](https://jeecgos.oss-cn-beijing.aliyuncs.com/files/logov3.png \"JeecgBoot低代码开发平台\")",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
